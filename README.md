@@ -11,3 +11,12 @@ Technologies Used Java: The backend is built in Java using JDBC for database con
 
 
 It consists of three main classes: Patient, Doctor, and HospitalManagementSystem. Let's discuss each class briefly:
+
+Patient Class:
+
+The Patient class represents a patient in the hospital with the three methods "addPatient" , "viewPatients", "getpatientsbyid".
+
+Doctor Class:
+
+The Doctor class represents a doctor in the hospital with the two methods "viewDoctors", "getdoctorssbyid.
+
